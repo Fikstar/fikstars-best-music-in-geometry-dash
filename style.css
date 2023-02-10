@@ -1,0 +1,14 @@
+body {
+    font-family: sans-serif;
+}
+
+header{
+text-align: center;
+}
+
+h1{
+text-align: center;
+background-color: cornflowerblue;
+border-radius: 50px;
+}
+
